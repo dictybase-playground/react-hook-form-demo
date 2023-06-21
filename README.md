@@ -1,4 +1,5 @@
 # react-hook-form-demo
+Simple implementation of react-hook-form for form validation
 
 # Getting Started
 
